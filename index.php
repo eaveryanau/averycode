@@ -17,7 +17,7 @@
     <div class="b"></div>
     <div class="ch">FORZA LAZIO!</div>
     <div class="b">
-        <div class="foot">©2021 by ave</div>
+        <div class="foot">©<?= date("Y"); ?> by ave</div>
     </div>
 </body>
 </html>
